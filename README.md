@@ -1,1 +1,1 @@
-# clima_node_consola
+## Aplicación de consola para consultar clima usando mapbpx y openweather

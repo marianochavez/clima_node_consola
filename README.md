@@ -1,1 +1,1 @@
-## Aplicación de consola para consultar clima usando mapbpx y openweather
+## Aplicación de consola para consultar clima usando mapbox y openweather
